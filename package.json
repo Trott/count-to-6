@@ -20,7 +20,7 @@
     "lint": "jshint lib"
   },
   "dependencies": {
-    "workshopper": "^1.0.0-alpha07",
+    "workshopper": "^2.7.0",
     "workshopper-exercise": "^0.2.3",
     "traceur": "0.0.41",
     "q": "^1.0.1",
